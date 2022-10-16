@@ -15,7 +15,4 @@ Draw { }, Love Open Source
 "Love Open Source"
 
 ![](love-opensource@iamsurge.png)
-
-"Open Source with Love"
-
-![](love-opensource@uwaisalqadri.png)
+![love-opensource@jhaayushofficial png](https://user-images.githubusercontent.com/115531575/196039332-2f992c06-e604-42bf-aede-18383e7b7f20.png)
